@@ -307,3 +307,15 @@ differences between these properties.
 [code-injection]:
   https://www.reddit.com/r/learnjavascript/comments/9502x5/is_innerhtml_still_considered_bad/e3p31go/?utm_source=share&utm_medium=web2x&context=3
 [class-list]: https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
+
+console.log(document,domain)
+console.log(document,URL)
+console.log(document,title)
+//document .title
+console.log(document,doctype)
+console.log(document,head)
+console.log(document,newHeader)
+document.getElementById('main')
+const newHeader = document.getElementById('victory')
+//let 'h1#victory' = document.createElement (aChild)
+const getElementById = ele
